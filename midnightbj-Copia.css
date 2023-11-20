@@ -1,4 +1,4 @@
-﻿/**
+/**
 CSS POR: https://bj-share.info/forums.php?action=viewthread&threadid=6840
      ____       ______                _       _ 
     / __ \___  / / / /__  ____ ______(_)___  (_)
@@ -321,6 +321,7 @@ ul.thin li {
     /* padding-bottom: 49px; */
     display: block;
     background-color: #272727;
+	background: url(images/banner/6e8a857647cc380dbd839aae7bf1600f.gif) no-repeat top center, url(images/banner/patternback-2.jpg) repeat-x top center
 }
 /* #header {
     background-color: #272727;
@@ -378,7 +379,7 @@ ul.thin li {
     height: 340px;
     margin-bottom: 59px;
     margin: 0 auto;
-    background: url('images/banner/62b275d.png') no-repeat top;
+    /* background: url('images/banner/62b275d.png') no-repeat top; */
 }
 
 #logo a {
@@ -597,11 +598,12 @@ ul.thin li {
 }
 #userinfo {
     width: 100%;
-    height: 20px;
-    top: 299px;
+    height: 21px;
+    top: 297px;
     align-items: center;
     flex-direction: row;
-    margin: 0 auto;    
+    margin: 0 auto;
+	padding: 6px 0;
 }
 
 #userinfo img {
