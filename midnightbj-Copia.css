@@ -321,7 +321,7 @@ ul.thin li {
     /* padding-bottom: 49px; */
     display: block;
     background-color: #272727;
-	background: url(images/banner/6e8a857647cc380dbd839aae7bf1600f.gif) no-repeat top center, url(images/banner/patternback-2.jpg) repeat-x top center
+    background: url(images/banner/6e8a857647cc380dbd839aae7bf1600f.gif) no-repeat top center, url(images/banner/patternback-2.jpg) repeat-x top center
 }
 /* #header {
     background-color: #272727;
@@ -603,7 +603,8 @@ ul.thin li {
     align-items: center;
     flex-direction: row;
     margin: 0 auto;
-	padding: 6px 0;
+    background-color: #272727;
+    padding: 6px 0;
 }
 
 #userinfo img {
