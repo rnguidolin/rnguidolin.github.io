@@ -1,4 +1,4 @@
-/**
+﻿/**
 CSS POR: https://bj-share.info/forums.php?action=viewthread&threadid=6840
      ____       ______                _       _ 
     / __ \___  / / / /__  ____ ______(_)___  (_)
@@ -1269,6 +1269,11 @@ td.colhead, .colhead td, .colhead th {
 #torrent_details .torrentdetails {
     background-color: #191818 !important;
 }
+
+table .torrentdetails {
+    background-color: #191818 !important;
+}
+
 
 td.label {
     font-weight: bold;
