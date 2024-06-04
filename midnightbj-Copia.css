@@ -319,9 +319,9 @@ ul.thin li {
     padding: 0px 0 0 0;
     height: 300px;
     /* padding-bottom: 49px; */
-    display: block;
-    background-color: #272727;
-    background: url(images/banner/6e8a857647cc380dbd839aae7bf1600f.gif) no-repeat top center, url(images/banner/patternback-2.jpg) repeat-x top center
+    /* display: block; */
+    /* background-color: #272727; */
+    /* background: url(images/banner/6e8a857647cc380dbd839aae7bf1600f.gif) no-repeat top center, url(images/banner/patternback-2.jpg) repeat-x top center; */
 }
 /* #header {
     background-color: #272727;
@@ -376,10 +376,11 @@ ul.thin li {
 } */
 #logo {
     width: 100%;
-    height: 340px;
-    margin-bottom: 59px;
-    margin: 0 auto;
+    height: 265px;
+    margin-bottom: 75px;
+    /* margin: 0 auto; */
     /* background: url('images/banner/62b275d.png') no-repeat top; */
+	background: url(images/banner/803ef92c8c104d28faad32eb1f307e90.png) no-repeat center, url(images/banner/patternback-2.jpg) repeat-x top center;
 }
 
 #logo a {
