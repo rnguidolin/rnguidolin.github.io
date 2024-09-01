@@ -1235,6 +1235,7 @@ td.colhead, .colhead td, .colhead th {
     padding: 0px 8px 0px 8px;
     font-size: 12pt;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .colhead_dark {
