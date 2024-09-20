@@ -1237,7 +1237,7 @@ td.colhead, .colhead td, .colhead th {
     font-weight: bold;
 }
 
-.colhead .sign a {
+.colhead .sign a, .colhead .sign:before {
     cursor: pointer;
 }
 
